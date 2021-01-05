@@ -33,9 +33,16 @@
 
    ## Utilities:
 
-       Here in this application, i mainly used languages and root environments like
-     - Javascript
-     - Jquery
-     - Node
-     - sql server
+     Here in this application, i mainly used languages and root environments like
+   - Javascript
+   - Jquery
+   - Node
+   - sql server
+
+   ## Links:
+   
+   my git hub link to this repo is :[Github][https://github.com/chunga-codder/sql-employee-traker]
+
+
+
 
