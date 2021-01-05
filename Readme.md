@@ -33,9 +33,9 @@
 
    ## Utilities:
 
-   Here in this application, i mainly used languages and root environments like
+       Here in this application, i mainly used languages and root environments like
      - Javascript
      - Jquery
      - Node
-    -  sql server
+     - sql server
 
