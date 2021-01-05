@@ -41,7 +41,17 @@
 
    ## Links:
    
-   my git hub link to this repo is :[Github][https://github.com/chunga-codder/sql-employee-traker]
+   my git hub link to this repo is :[Github](https://github.com/chunga-codder/sql-employee-traker)
+
+   ## Aproach:
+
+   my approach to this app was,
+   - creating my database first
+   - creating my tables 
+   - creating my seed.sql
+   - moving my information from my database to my employee.sql
+   - creating my index.js to connect to my data base which was the hardest part of my app, i needed to use inquirer here ,to
+   use my async await functions properly
 
 
 
