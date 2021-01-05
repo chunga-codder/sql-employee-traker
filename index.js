@@ -22,7 +22,7 @@ const connection = mysql.createConnection({
     host: 'localhost',
 
     // my port
-    port: 3000,
+    port: 3306,
 
     // username
     user: 'root',
