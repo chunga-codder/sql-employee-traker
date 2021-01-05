@@ -13,6 +13,12 @@
 - [Approach](#approach)
 - [Video-sample](#video-sample)
 
+## Pictures:
+
+![inployee traker](https://user-images.githubusercontent.com/71171928/103685266-3b5f0c80-4f8d-11eb-80b6-4231e3ee8d9e.PNG)
+![employee two](https://user-images.githubusercontent.com/71171928/103685333-57fb4480-4f8d-11eb-88e3-8050f2fde9ee.PNG)
+
+
 ## Installation:
 
    to successfully run this application, you will need to install some 
