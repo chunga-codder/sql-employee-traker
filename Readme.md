@@ -43,7 +43,7 @@
    
    my git hub link to this repo is :[Github](https://github.com/chunga-codder/sql-employee-traker)
 
-   ## Aproach:
+   ## Approach:
 
    my approach to this app was,
    - creating my database first
