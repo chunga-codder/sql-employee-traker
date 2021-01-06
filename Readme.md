@@ -59,6 +59,10 @@
    - moving my information from my database to my employee.sql
    - creating my index.js to connect to my data base which was the hardest part of my app, i needed to use inquirer here ,to
    use my async await functions properly
+   
+   ## Video-sample:
+   
+   link to video: [demo-video](https://drive.google.com/file/d/10ihS_GxOqoupdYjJpmWbMVALf5EL30iy/view)
 
 
 
