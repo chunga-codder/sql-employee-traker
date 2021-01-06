@@ -47,7 +47,8 @@
 
    ## Links:
    
-   my git hub link to this repo is :[Github](https://github.com/chunga-codder/sql-employee-traker)
+   my git hub link to this repo is : [Github-repo](https://github.com/chunga-codder/sql-employee-traker)
+   my video link to demo app : [video-demo](https://drive.google.com/file/d/10ihS_GxOqoupdYjJpmWbMVALf5EL30iy/view)
 
    ## Approach:
 
